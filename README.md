@@ -25,15 +25,17 @@ This project is a CRUD (Create, Read, Update, Delete) application developed usin
 
 ---
 
-## 🛠️ Technologies Used
+## 🛠️ Technologies Used  
 
-Technology Description
+| Technology    | Description                           |
+|---------------|---------------------------------------|
+| ![C# Icon](https://img.shields.io/badge/C%23-green?logo=csharp&logoColor=white) | Server-side programming to handle business logic and data processing. |
+| ![SQL Icon](https://img.shields.io/badge/SQL-lightblue?logo=mysql&logoColor=white) | Database management for storing and retrieving data. |
+| ![.NET Icon](https://img.shields.io/badge/.NET-5.0-purple?logo=dotnet&logoColor=white) | Framework for building a robust and scalable application. |
+| ![Entity Framework](https://img.shields.io/badge/Entity%20Framework-darkgreen?logo=ef&logoColor=white) | ORM for simplified and efficient database management. |
+| ![HTML Icon](https://img.shields.io/badge/HTML5-orange?logo=html5&logoColor=white) | Structuring the content for the application. |
+| ![CSS Icon](https://img.shields.io/badge/CSS3-blue?logo=css3&logoColor=white) | Styling the application for a better user experience. |
 
----
-
-![C# Icon](httpsimg.shields.iobadgeC%23-greenlogo=csharp&logoColor=white) Server-side programming.  
- ![SQL Icon](httpsimg.shields.iobadgeSQL-lightbluelogo=mysql&logoColor=white) Database management for storing and retrieving data.  
- ![.NET Icon](httpsimg.shields.iobadge.NET-5.0-purplelogo=dotnet&logoColor=white) Framework for building the application.
 
 ---
 
