@@ -72,9 +72,7 @@ This project is a CRUD (Create, Read, Update, Delete) application developed usin
 
 ---
 
-## 📜 License
-
-This project is licensed under the MIT License. Contributions and modifications are welcome!
+--Contributions and modifications are welcome!
 
 ---
 
